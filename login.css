@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(18, 151, 204);
+}
+
+div{
+    background-color: white;
+    width: 400px;
+    height: 255px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 190px;
+    margin-left: 600px;
+}
+
+input{
+    width: 350px;
+    border-style: hidden;
+    background-color: #ddd;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+input:hover{
+    background-color: gold;
+}
+
+button{
+    width: 365px;
+    padding: 7px;
+    background-color: rgb(18, 151, 204);
+    border-style: hidden;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: gold;
+}
+
+h2{
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.p{
+    text-align: left;
+    margin-left: 25px;
+    margin-top: -10px;
+    color: rgb(41, 37, 37);
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+hr{
+    width: 365px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+a{
+    color: white;
+}
+
+.Forgotten{
+    color: rgb(18, 151, 204);
+    font-size: smaller;
+    text-decoration: none;
+}

@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(18, 151, 204);
+    line-height: 20px;
+}
+
+div{
+    background-color: white;
+    height: 170px;
+    width: 400px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 190px;
+    margin-left: 600px;
+}
+
+input{
+    padding: 7px;
+    background-color: #ddd;
+    border-color: white;
+    border-style: hidden;
+    border-radius: 3px;
+    width: 350px;
+}
+
+input:hover{
+    background-color: gold;
+}
+
+button{
+    width: 365px;
+    padding: 7px;
+    background-color: rgb(18, 151, 204);
+    border-style: hidden;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: gold;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.try{
+    font-size: small;
+    color: rgb(18, 151, 204);
+    margin-bottom: -10000px;
+}
+
+hr{
+    width: 365px;
+    margin-top: -10px;
+    border-color: #ececec
+}
